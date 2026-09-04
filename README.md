@@ -40,7 +40,7 @@ RADS-PDD combines sampling-based verbatim reproduction with three interpretable 
 The resulting score accumulates weighted evidence across the full reproduction sequence:
 
 $$
-\operatorname{RADS}(x, \hat{y}) = \frac{1}{L}\sum_{i=1}^{L} pws_i \cdot pgw_i \cdot cgw_i.
+\mathrm{RADS}(x, \hat{y}) = \frac{1}{L}\sum_{i=1}^{L} pws_i \cdot pgw_i \cdot cgw_i.
 $$
 
 A threshold on this score produces the final pre-training/non-pre-training decision.
