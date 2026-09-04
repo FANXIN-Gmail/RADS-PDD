@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the article below."
+title: "RADS-PDD: Reproducibility-aware Dynamic Similarity-based Pre-training Data Detection against LLMs"
+type: software
+authors:
+  - family-names: Fan
+    given-names: Xin
+  - family-names: Miyamoto
+    given-names: Ryoto
+  - family-names: Mo
+    given-names: Fan
+  - family-names: Chen
+    given-names: Chongxian
+  - family-names: Matsumoto
+    given-names: Tsuneo
+  - family-names: Kido
+    given-names: Fuyuko
+  - family-names: Yamana
+    given-names: Hayato
+repository-code: "https://github.com/FANXIN-Gmail/RADS-PDD"
+date-released: 2026-07-16
+preferred-citation:
+  type: article
+  title: "RADS-PDD: Reproducibility-aware dynamic similarity-based pre-training data detection against LLMs"
+  authors:
+    - family-names: Fan
+      given-names: Xin
+    - family-names: Miyamoto
+      given-names: Ryoto
+    - family-names: Mo
+      given-names: Fan
+    - family-names: Chen
+      given-names: Chongxian
+    - family-names: Matsumoto
+      given-names: Tsuneo
+    - family-names: Kido
+      given-names: Fuyuko
+    - family-names: Yamana
+      given-names: Hayato
+  journal: Neural Networks
+  volume: "205"
+  year: 2027
+  doi: "10.1016/j.neunet.2026.109393"
+  start: "109393"
