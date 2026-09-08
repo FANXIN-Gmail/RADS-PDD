@@ -39,6 +39,7 @@ preferred-citation:
       given-names: Hayato
   journal: Neural Networks
   volume: "205"
+  # Publisher-assigned issue year. First online publication: 2026-07-16 (date-released above).
   year: 2027
   doi: "10.1016/j.neunet.2026.109393"
   start: "109393"

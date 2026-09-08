@@ -8,7 +8,7 @@
 
 **Xin Fan**, Ryoto Miyamoto, Fan Mo, Chongxian Chen, Tsuneo Matsumoto, Fuyuko Kido, and Hayato Yamana
 
-*Neural Networks*, Volume 205, Article 109393. [[Paper]](https://doi.org/10.1016/j.neunet.2026.109393) [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/42480164/)
+*Neural Networks*, published online **16 July 2026**. Volume 205, Article 109393. [[Paper]](https://doi.org/10.1016/j.neunet.2026.109393) [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/42480164/)
 
 > RADS-PDD detects whether a suspect text appeared in an LLM's pre-training data using only the model's final textual outputs. It models how reproducibility changes across token positions, contiguous spans, and expressions instead of compressing reproduction behavior into a single static similarity score.
 
@@ -74,6 +74,8 @@ This repository currently serves as the project page for the paper and provides 
 
 ## Citation
 
+The paper was first published online on **16 July 2026**, as recorded by [PubMed](https://pubmed.ncbi.nlm.nih.gov/42480164/) and on the article’s first page. The [publisher](https://doi.org/10.1016/j.neunet.2026.109393) assigns it to Volume 205 (January 2027); the BibTeX below uses that issue year and records the online date separately.
+
 If you find this work useful, please cite:
 
 ```bibtex
@@ -84,6 +86,7 @@ If you find this work useful, please cite:
   volume  = {205},
   pages   = {109393},
   year    = {2027},
+  note    = {First published online 16 July 2026},
   doi     = {10.1016/j.neunet.2026.109393}
 }
 ```
